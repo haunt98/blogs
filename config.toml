@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hau's blog"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
